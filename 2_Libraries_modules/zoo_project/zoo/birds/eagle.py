@@ -1,0 +1,2 @@
+def screech():
+    print('KREEEEEE!')
